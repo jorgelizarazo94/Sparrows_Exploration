@@ -1,0 +1,25 @@
+# IDE folders
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (avoid uploading large files)
+data/*.rds
+data/*.csv
+data/*.zip
+data/*.tar.gz
+data/*.parquet
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Other system files
+.DS_Store
+Thumbs.db
